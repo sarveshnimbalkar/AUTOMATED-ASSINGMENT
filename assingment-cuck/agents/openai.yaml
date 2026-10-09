@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASSINGMENT CUCK"
+  short_description: "Solve assignments and capture real compiler terminals"
+  default_prompt: "Use $assingment-cuck to solve my assignment, open the appropriate compiler or IDE, run each final program separately, and capture its actual terminal or output panel with a screen-capture tool. Insert those captured screenshots and the answers into Word. Never generate or recreate output images; report unavailable capture steps as incomplete."
